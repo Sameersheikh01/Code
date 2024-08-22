@@ -10,6 +10,7 @@
             background-color: black;
             color: #ffc0d7;
         }
+        
         div{
             font-size: 5em;
         }
